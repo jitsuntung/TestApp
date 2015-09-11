@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="array_one">
+        <item>Menu Item 1</item>
+        <item>Menu Item 2</item>
+        <item>Menu Item 3</item>
+    </string-array>
+    <string name="app_name">The Djecision</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
